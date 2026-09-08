@@ -6,7 +6,7 @@ MU Online external hack with auto-potion, item duplication, fly hack, full map h
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular tools like **MU Helper** and **MUEME**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch MU Online.
 4. Run the hack **as Administrator**.
